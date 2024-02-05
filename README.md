@@ -17,6 +17,11 @@ ___
 - [ Aknowledgements ]
 ___
 
+**Recommended Screws**  
+6 ::: 93235A107_Vented Socket Head Screw   
+4 ::: 93235A114_Vented Socket Head Screw  
+4 ::: 91240A005_Mil. Spec. 18-8 Stainless Steel Hex Nut  
+
 ## :: Assets ::  
 
 ### :: Intended Connection ::  
