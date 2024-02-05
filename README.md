@@ -17,9 +17,10 @@ ___
 - [ Aknowledgements ]
 ___
 
-### Assets  
+### :: Assets ::  
 
-## Intended Connection  
+#### :: Intended Connection ::  
 
-## Copper Temperature Stabilization Probe  
-<img src="./z.README.Images/UTA.Logo.png" width="4%">
+#### :: Copper Temperature Stabilization Probe ::  
+<img src="./z.README.Images/CTSPDrawing.png" width="75%">
+
