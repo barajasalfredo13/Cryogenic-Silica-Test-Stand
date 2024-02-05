@@ -1,4 +1,6 @@
-# ModuTherm Wafer Test System
+<img src="./z.README.Images/UTA.Logo.png" width="70%">
+# University of Texas at Arlington
+## ModuTherm Wafer Test System
 
 The ModuTherm Wafer Test System is designed to support the testing of 2-inch (50.8 mm) diameter silica/quartz wafers within a testing chamber. This system includes three main components: a Thermal Regulation System, a Temperature Stabilization Probe, and a Probe Card. These components are designed for easy replacement or modification to accommodate various testing needs.
 
