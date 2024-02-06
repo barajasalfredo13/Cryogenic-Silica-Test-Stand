@@ -9,7 +9,8 @@ The design focuses on providing a customizable and user-friendly experience, all
 ___
 <img src="./z.README.Images/ModuThermSample.png" width="45.5%"><img src="./z.README.Images/MTFront.png" width="35%">  
 ## Table of Contents  
-- [Assets]  
+- [Assets]
+  - [ Non-Custom Components ]
   - [ Intended Connection ]  
   - [ Copper Temperature Stabilization Probe ]  
   - [ PCB Probe Card ]  
@@ -17,12 +18,15 @@ ___
 - [ Aknowledgements ]
 ___
 
-**Recommended Screws**  
-6 ::: 93235A107_Vented Socket Head Screw   
-4 ::: 93235A114_Vented Socket Head Screw  
-4 ::: 91240A005_Mil. Spec. 18-8 Stainless Steel Hex Nut  
+## ::: Assets :::  
 
-## :: Assets ::  
+### :: Non-Custom Components ::  
+| Quantity | Item Number   | Description                                  |
+|----------|---------------|----------------------------------------------|
+| 6        | 93235A107     | Vented Socket Head Screw                     |
+| 4        | 93235A114     | Vented Socket Head Screw                     |
+| 4        | 91240A005     | Mil. Spec. 18-8 Stainless Steel Hex Nut      |
+
 
 ### :: Intended Connection ::  
 <img src="./z.README.Images/MountDim.png" width="65%">
