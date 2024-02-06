@@ -40,7 +40,7 @@ The **Copper Temperature Stabilization Probe** is designed with a contact diamet
 
 For a comprehensive understanding of the design, a preliminary drawing is available in the preceding image. Additionally, for detailed examination and utilization, a PDF of the drawing, along with STL and STEP files, are provided in the folder named "1. Copper Temperature Stabilization Probe" within this repository.  
 
-<img src="./z.README.Images/CuSample.png" width="45.2%"><img src="./z.README.Images/CuSampleBot.png" width="50%">  
+<img src="./z.README.Images/CuSample.png" width="45.2%"><img src="./z.README.Images/CuSampleBot.png" width="60%">  
 
 ### :: PCB Probe Card ::  
 
