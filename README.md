@@ -44,9 +44,18 @@ For a comprehensive understanding of the design, a preliminary drawing is availa
 
 ### :: PCB Probe Card ::  
 
-The design of the probe card prioritizes affordability and versatility, enabling customization to accommodate various wafer configurations. It facilitates external mounting assembly, utilizing four screws to secure the substrate effectively. The arrangement includes two central holes for mounting purposes, while the peripheral holes are strategically placed to align the wafer, ensuring precise testing.  
+| Feature       | Information                                                                                                                        |
+|---------------|------------------------------------------------------------------------------------------------------------------------------------|
+| Description   | The design of the probe card prioritizes affordability and versatility, enabling customization to accommodate various wafer configurations. It facilitates external mounting assembly, utilizing four screws to secure the substrate effectively. The arrangement includes two central holes for mounting purposes, while the peripheral holes are strategically placed to align the wafer, ensuring precise testing. |
+| Dimensions    | x-75 mm y-87.55 mm                                                                                                                 |
+| Thickness     | 1.6 mm                                                                                                                             |
 
-<img src="./z.README.Images/Wafer.png" width="35%"><img src="./z.README.Images/ProbeCardAssembly.png" width="53.3%">
+
+
+<img src="./z.README.Images/ProbeCard.png" width="88%">  
+  
+<img src="./z.README.Images/Wafer.png" width="35%"><img src="./z.README.Images/ProbeCardAssembly.png" width="53.3%">  
+
 
 ## Simulation Example
 
