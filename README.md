@@ -47,7 +47,7 @@ For a comprehensive understanding of the design, a preliminary drawing is availa
 | Feature       | Information                                                                                                                        |
 |---------------|------------------------------------------------------------------------------------------------------------------------------------|
 | Description   | The design of the probe card prioritizes affordability and versatility, enabling customization to accommodate various wafer configurations. It facilitates external mounting assembly, utilizing four screws to secure the substrate effectively. The arrangement includes two central holes for mounting purposes, while the peripheral holes are strategically placed to align the wafer, ensuring precise testing. |
-| Dimensions    | x-75 mm y-87.55 mm                                                                                                                 |
+| Dimensions    | x-70 mm y-87.55 mm                                                                                                                 |
 | Thickness     | 1.6 mm                                                                                                                             |
 
 
