@@ -2793,7 +2793,7 @@
 		)
 	)
 	(gr_text "87.550 [mm]"
-		(at 35 33.724987 0)
+		(at 36 36 0)
 		(layer "User.4")
 		(uuid "89193d55-42d9-4cce-87da-e1e90a401d10")
 		(effects
@@ -2804,8 +2804,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "75.000 [mm]"
-		(at 110 126.274987 0)
+	(gr_text "70.000 [mm]"
+		(at 94 125 0)
 		(layer "User.4")
 		(uuid "cad16164-b076-4459-925f-3a63661c53e6")
 		(effects

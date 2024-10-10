@@ -27,7 +27,12 @@
 |---------------|------------------------------------------------------------------------------------------------------------------------------------|
 | Dimensions    | x-70 mm y-87.55 mm                                                                                                                 |
 | Thickness     | 1.6 mm                                                                                                                             |
- 
+
+<img src="./z.ReadMeAssets/TemperatureTestingStand/Slide9.PNG" width="100%">
+
+<img src="./z.ReadMeAssets/TemperatureTestingStand/Slide10.PNG" width="100%">
+
+
 ## Aknowledgements
 
 :: **Simulation and Feedback** ::  
